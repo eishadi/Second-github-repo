@@ -1,0 +1,49 @@
+
+/* First & Third Blog Section h2 part */
+.F{
+    text-align: start;
+    font-size: 60px;
+    font-weight: 300;
+}
+/* First & Third Div Section */
+.Block{
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 5px 90px;
+    text-align: start;
+    box-shadow: 25px 25px 10px  rgb(40, 122, 95);
+}
+/* Second & Fourth Blog Section h2 part */
+.S{
+    text-align: start;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: end;
+}
+/* Second & Fourth Div Section */
+.Second{
+    background-color: rgb(112, 240, 245);
+    padding: 30px;
+    border-radius: 90px 5px;
+    text-align: end;
+    box-shadow: 25px 25px 5px rgb(39, 100, 102);
+}
+.W{
+
+  background-color: blanchedalmond;
+  border-radius: 50px 50px;
+  box-shadow: 25px 25px 150px rgb(6, 17, 17);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Last{
+    font-size: 25px;
+    font-weight: 600;
+   
+
+}
+
+.B{
+    font-size: 30px;
+    border-radius: 70px 60px;
+}
